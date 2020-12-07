@@ -1,0 +1,31 @@
+body {
+	margin: 0px;
+
+}
+
+#BlockCategories {
+	width: 300px; /* Ширина блока */
+    background: #fc0; /* Цвет фона */
+    border: 1px solid #ccc; /* Параметры рамки */
+    height: 100px;
+    display: inline-block;
+
+}
+
+#BlockAddCategories {
+	position: relative;
+	background-color: #FFF555;
+	width: 250px;
+	height: auto;
+	float: right;
+
+
+
+}
+
+#BlockCategoriesContent {
+	width: 400px;
+}
+
+
+
